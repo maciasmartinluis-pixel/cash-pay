@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TU_TEAM_ID.com.tuempresa.CASH",
+        "appID": "*.com.luis.CASH",
         "paths": [ "/pay*" ]
       }
     ]
